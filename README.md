@@ -2,7 +2,7 @@
 👀 I’m interested in game development, coding projects, and exploring new technologies.
 🌱 I’m currently learning JavaScript, front-end frameworks, and building dynamic web applications.
 💞️ I’m looking to collaborate on open-source projects, game development, and tech-related innovations.
-📫 How to reach me: LinkedIn or email me at your-tudonapraticayt@gmail.com
+📫 How to reach me:tudonapraticayt@gmail.com
 😄 Pronouns: He/Him 
 ⚡ Fun fact: I’m a gamer who loves creating unique code while leveling up in both the digital and real world!
 <!---
